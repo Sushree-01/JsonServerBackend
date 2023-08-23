@@ -1,0 +1,34 @@
+{
+    "product": [
+        {
+          "id": 1,
+          "title": "json-server",
+          "status": true
+        },
+        {
+          "title": "task-2",
+          "status": true,
+          "id": 2
+        },
+        {
+          "title": "task-3",
+          "status": false,
+          "id": 3
+        },
+        {
+          "title": "task-3",
+          "status": true,
+          "id": 4
+        },
+        {
+          "title": "task-3",
+          "status": false,
+          "id": 5
+        },
+        {
+          "title": "task-5",
+          "status": false,
+          "id": 6
+        }
+      ]
+}
