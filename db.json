@@ -34,8 +34,10 @@
       "data":[
         {
             "name":"Payal",
+            "email":"payal@gmail.com",
+            "password":"121345",
             "age":"23",
-            "profression":"full Stack web-Developer"
+            "profression":"student"
         }
       ]
 }
