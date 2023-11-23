@@ -1326,5 +1326,51 @@
         "gender": "male"
         }
         
+    ],
+    "events":[
+      {
+        "events": [
+          {
+            "id": 1,
+            "poster": "https://www.timeoutdubai.com/cloud/timeoutdubai/2023/05/22/gigs-in-dubai-1.png",
+            "name": "Music Festival",
+            "description": "A vibrant music festival featuring top artists from around the world.",
+            "date": "2023-09-15",
+            "location": "Delhi",
+            "category": "Music",
+            "price": 300
+          },
+          {
+            "id": 2,
+            "poster": "https://media.istockphoto.com/id/1320104418/photo/sport-background-green-field-in-soccer-stadium-ready-for-game-in-the-midfield-3d-illustration.jpg?s=612x612&w=0&k=20&c=P4R6zIzHvVlc3_wtsZPw7LoOG_TC9iV4DvpffHmCuU8=",
+            "name": "Soccer Match",
+            "description": "An exciting soccer match between two rival teams.",
+            "date": "2023-08-28",
+            "location": "Chennai",
+            "category": "Sports",
+            "price": 250
+          },
+          {
+            "id": 3,
+            "poster": "https://wpvip.edutopia.org/wp-content/uploads/2022/10/davis-169hero2-teachcode-twenty20.jpg?w=2880&quality=85",
+            "name": "Coding Workshop",
+            "description": "Learn the art of coding with experienced professionals.",
+            "date": "2023-09-05",
+            "location": "Banglore",
+            "category": "Workshop",
+            "price": 150
+          },
+          {
+            "id": 4,
+            "poster": "https://media.npr.org/assets/img/2017/12/21/_harlan_nprmusic10years-149_wide-78a7596027f7b4c023a21ad85f078e8a4165c230-s800-c85.jpg",
+            "name": "Rock Concert",
+            "description": "A high-energy rock concert with electrifying performances.",
+            "date": "2023-09-20",
+            "location": "Mumbai",
+            "category": "Music",
+            "price": 400
+          }
+        ]
+      }
     ]
 }
